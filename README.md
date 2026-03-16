@@ -1,6 +1,6 @@
 # AI-Auto-Clip-Mobile-JS-Edition-
 A React Native-based mobile app that uses AI Agent to automatically detect viral moments, trim clips, add subtitles, and fill in the backsound using FFmpeg.
-🎬 AI Clip Generator - Automatic Mobile Video Editor
+
 
 
 An intelligent mobile video editor application that leverages Google Gemini AI to automatically detect viral moments in videos, generate short clips with intelligent timestamping, and apply professional text overlays and audio effects.
